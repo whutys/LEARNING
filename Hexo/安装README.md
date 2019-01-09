@@ -13,6 +13,9 @@ http://nodejs.org/
 
 # 4.打开git，输入npm install -g hexo-cli
 国内加上  --registry=https://registry.npm.taobao.org  重要
+
+或者安装使用[淘宝cnpm](npm install -g cnpm --registry=https://registry.npm.taobao.org)
+
 检验 hexo -v
 
 # 5.创建博客文件夹，如D:\\blog
